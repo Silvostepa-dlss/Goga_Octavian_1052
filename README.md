@@ -1,1 +1,1 @@
-In fisierul src este codul pentru primele 3 teme de pe platforma(OOP, Exceptions, Collections)
+In fisierul src este codul pentru primele 4 teme de pe platforma(OOP, Exceptions, Collections, Generics)
